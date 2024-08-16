@@ -1,0 +1,39 @@
+div > h1 {
+  background-color: #5e9acf;
+}
+
+.txt {
+  background-color: #458b2a;
+}
+
+#scnd {
+  background-color: #f1a816;
+}
+
+.main > a {
+  background-color: #97acff;
+}
+
+.main em + a {
+  background-color: #fe95c3;
+}
+
+a[href*="url"] {
+  background-color: #25ff5c;
+}
+
+p.tg {
+  background-color: #00ffff;
+}
+
+p.first a[href="#"] {
+  background-color: #d0ff00;
+}
+
+#second a:hover {
+  background-color: #630b47;
+}
+
+p.last a[href="#1"]:hover {
+  background-color: #c37f7f;
+}
